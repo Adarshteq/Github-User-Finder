@@ -34,6 +34,8 @@ A modern and responsive web application that allows users to search for GitHub p
 
 - **Font Awesome** for icons
 
+📌 [Live Demo](https://adarshteq.github.io/Github-User-Finder/)
+
 ## 📦 Installation
 
 1. **Clone this repository**:
@@ -56,4 +58,4 @@ Explore their profile, activity, and popular repositories.
 
 Use the 🌞/🌙 toggle in the top-right to switch between themes.
 
-##📌 [Live Demo](https://adarshteq.github.io/Github-User-Finder/)
+
