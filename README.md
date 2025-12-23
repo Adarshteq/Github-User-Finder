@@ -2,7 +2,7 @@
 
 A modern, responsive web application to search for GitHub users and display their profile information, repositories, and language statistics with a beautiful UI.
 
-https://img.shields.io/badge/GitHub-User_Finder-00b7ff?style=for-the-badge&logo=github
+<img src="https://img.shields.io/badge/GitHub-User_Finder-00b7ff?style=for-the-badge&logo=github" />
 
 <img width="1512" height="1773" alt="Screenshot_2025-12-23_12-01-17" src="https://github.com/user-attachments/assets/a4f9a8c8-cc10-4c2d-8a9a-7da73c4b2c63" />
 
